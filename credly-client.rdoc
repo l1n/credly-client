@@ -1,0 +1,5 @@
+= credly-client
+
+Generate this with
+    credly-client rdoc
+After you have described your command line interface

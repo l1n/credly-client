@@ -1,0 +1,6 @@
+= credly-client
+
+Describe your project here
+
+:include:credly-client.rdoc
+
